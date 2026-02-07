@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Go On Girl",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T10:23:38.574977Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go On Girl",
+      "artist": "Ne-Yo",
+      "has_synced": true,
+      "path": "select/01_Go_On_Girl_Ne-Yo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Go on Girl",
+      "artist": "Ne‐Yo",
+      "has_synced": true,
+      "path": "select/02_Go_on_Girl_Ne‐Yo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ne-Yo - Go On Girl (Official Music Video)",
+      "artist": "Ne-Yo",
+      "has_synced": true,
+      "path": "select/03_Ne-Yo_-_Go_On_Girl_(Official_Music_Video)_Ne-Yo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Go On Girl (Album Version)",
+      "artist": "Ne-Yo",
+      "has_synced": true,
+      "path": "select/04_Go_On_Girl_(Album_Version)_Ne-Yo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Go on Girl",
+      "artist": "Ne‐Yo",
+      "has_synced": true,
+      "path": "select/05_Go_on_Girl_Ne‐Yo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Go on Girl",
+      "artist": "Ne‐Yo",
+      "has_synced": true,
+      "path": "select/06_Go_on_Girl_Ne‐Yo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Go On Girl",
+      "artist": "Ne-Yo",
+      "has_synced": true,
+      "path": "select/07_Go_On_Girl_Ne-Yo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ne-Yo - Go On Girl (Official Music Video)",
+      "artist": "NE-YO",
+      "has_synced": true,
+      "path": "select/08_Ne-Yo_-_Go_On_Girl_(Official_Music_Video)_NE-YO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Go On Girl",
+      "artist": "Ne-Yo",
+      "has_synced": true,
+      "path": "select/09_Go_On_Girl_Ne-Yo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Go on Girl (instrumental)",
+      "artist": "Ne‐Yo",
+      "has_synced": true,
+      "path": "select/10_Go_on_Girl_(instrumental)_Ne‐Yo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Go On Girl (Dirty)",
+      "artist": "Sky Blu",
+      "has_synced": false,
+      "path": "select/11_Go_On_Girl_(Dirty)_Sky_Blu.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Go On Girl (Radio Edit) XMIXR",
+      "artist": "Sky Blu",
+      "has_synced": false,
+      "path": "select/12_Go_On_Girl_(Radio_Edit)_XMIXR_Sky_Blu.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Go On Girl",
+      "artist": "Ne-Yo",
+      "has_synced": true,
+      "path": "select/13_Go_On_Girl_Ne-Yo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Go on Girl",
+      "artist": "Ne-Yo",
+      "has_synced": true,
+      "path": "select/14_Go_on_Girl_Ne-Yo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Go On Girl (Produced By StarGate)",
+      "artist": "Ne-Yo",
+      "has_synced": true,
+      "path": "select/15_Go_On_Girl_(Produced_By_StarGate)_Ne-Yo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "NE-YO Go On Girl",
+      "artist": "NE-YO Go On Girl",
+      "has_synced": true,
+      "path": "select/16_NE-YO_Go_On_Girl_NE-YO_Go_On_Girl.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Go On Girl",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_Go_On_Girl_Ne-Yo.txt"
+    }
+  ]
+}
